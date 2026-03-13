@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 
   Load the library (replace URL with your raw GitHub URL):
-    local NexusUI = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+    local NexusUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/zEthanReal/NexusUI/refs/heads/main/NexusUI.lua"))()
 
   For local testing, you can also do:
     local NexusUI = require(path.to.NexusUI)
